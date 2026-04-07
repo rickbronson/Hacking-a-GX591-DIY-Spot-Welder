@@ -29,3 +29,6 @@ make -C stc8prog
 make
 minicom -b 115200 -w -D /dev/ttyUSB0
 ```
+
+  I tried to get the seven segment displays working but I think I ruined them when trying to remove parts from the board.
+	
